@@ -1,8 +1,0 @@
-This notebook will be mainly used for the capstone project.
-
-You can also see my codes on online jupyter notebook
-
-import pandas as pd
-import numpy as np
-
-print("Hello Capstone Project Course!")
